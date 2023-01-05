@@ -4,7 +4,7 @@
 #
 Name     : pypi-constantly
 Version  : 15.1.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/95/f1/207a0a478c4bb34b1b49d5915e2db574cadc415c9ac3a7ef17e29b2e8951/constantly-15.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/95/f1/207a0a478c4bb34b1b49d5915e2db574cadc415c9ac3a7ef17e29b2e8951/constantly-15.1.0.tar.gz
 Summary  : Symbolic constants in Python
